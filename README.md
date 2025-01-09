@@ -1,11 +1,11 @@
 <h1 align="center">Hola, Bienvenido! Soy Cesar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<pre>
+  <h2 style="color:red;" >👨‍💻<strong>Sobre mí</strong></h2>
+    Soy estudiante de Tecnologías de la Información en la Benemérita Universidad Autónoma de Puebla (BUAP). 
+    Tengo una gran pasión por el desarrollo web, los videojuegos 🎮 y el boxeo 🥊.       
+    Me encanta aprender cosas nuevas y enfrentar retos tecnológicos que me permitan mejorar mis     
+    habilidades y conocimientos. 💡
+</pre>
 
-<p align="center">
-  <img src="https://media.tenor.com/TUwjvnPffIMAAAAC/viciadoemcodar.gif" alt="viciado em codar" width="400" />
-</p>
 
-## 👨‍💻 Sobre mí
 
-Soy estudiante de **Tecnologías de la Información** en la **Benemérita Universidad Autónoma de Puebla (BUAP)**.  
-Tengo una gran pasión por el **desarrollo web**, los **videojuegos** 🎮 y el **boxeo** 🥊.  
-Me encanta aprender cosas nuevas y enfrentar retos tecnológicos que me permitan mejorar mis habilidades y conocimientos. 💡
