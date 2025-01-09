@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/TUwjvnPffIMAAAAC/viciadoemcodar.gif" alt="" width="400" />
 
   <pre>
-    **Acerca de mi! 👦🏼**
+    Acerca de mi 
   </pre>
 
 
