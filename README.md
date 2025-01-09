@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/TUwjvnPffIMAAAAC/viciadoemcodar.gif" alt="" width="400" />
 
   <pre>
-    👨‍💻 <strong>Sobre mí</strong>
+   <h2> 👨‍💻 <strong>Sobre mí</strong></h2>
     Soy estudiante de Tecnologías de la Información en la Benemérita Universidad Autónoma de Puebla (BUAP). 
     Tengo una gran pasión por el desarrollo web, los videojuegos 🎮 y el boxeo 🥊.       
     Me encanta aprender cosas nuevas y enfrentar retos tecnológicos que me permitan mejorar mis     
