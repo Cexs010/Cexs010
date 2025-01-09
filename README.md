@@ -9,7 +9,6 @@
 
 <pre>
    <h2>  💼<strong> Habilidades Técnicasstrong>  </h2>
-
     Lenguajes de Programación:
     JavaScript, Python, C#, HTML, CSS
     Frameworks y Librerías:
@@ -18,7 +17,6 @@
     Git, GitHub, Visual Studio Code, Arduino IDE
     Bases de Datos:
     MySQL, MongoDB
-
 </pre>
 
 
