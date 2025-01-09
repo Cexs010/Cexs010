@@ -8,17 +8,16 @@
 </pre>
 
 <pre>
-  💡
+   <h2>  💼<strong> Habilidades Técnicasstrong>  </h2>
 
-💼 Habilidades Técnicas
-Lenguajes de Programación:
-JavaScript, Python, C#, HTML, CSS
-Frameworks y Librerías:
-Bootstrap, Tailwind CSS, Vue.js, Node.js
-Herramientas de Desarrollo:
-Git, GitHub, Visual Studio Code, Arduino IDE
-Bases de Datos:
-MySQL, MongoDB
+    Lenguajes de Programación:
+    JavaScript, Python, C#, HTML, CSS
+    Frameworks y Librerías:
+    Bootstrap, Tailwind CSS, Vue.js, Node.js
+    Herramientas de Desarrollo:
+    Git, GitHub, Visual Studio Code, Arduino IDE
+    Bases de Datos:
+    MySQL, MongoDB
 
 </pre>
 
