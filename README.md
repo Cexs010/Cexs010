@@ -59,9 +59,3 @@ Actualmente estoy otivado por aplicar mis conocimientos académicos en un entorn
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=0A66C2&style=flat-square&label=Visitas+al+perfil" alt="contador de visitas"/>
-</p>
