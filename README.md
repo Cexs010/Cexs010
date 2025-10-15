@@ -8,11 +8,12 @@
 
 ## Acerca de mí  
 
-Soy estudiante de **Tecnologías de la Información** en la **Benemérita Universidad Autónoma de Puebla.**.  
+Soy estudiante de **Tecnologías de la Información** en la **Benemérita Universidad Autónoma de Puebla**.  
 Me interesa el **desarrollo de software**, el diseño de soluciones eficientes y la mejora continua a través de la tecnología.  
 Cuento con experiencia en proyectos de desarrollo web y en el uso de herramientas modernas para la creación de interfaces funcionales y escalables.  
 
-Actualmente estoy otivado por aplicar mis conocimientos académicos en un entorno profesional, aprender de equipos multidisciplinarios y contribuir con soluciones innovadoras.
+Actualmente estoy motivado por aplicar mis conocimientos académicos en un entorno profesional, aprender de equipos multidisciplinarios y contribuir con soluciones innovadoras.  
+Estoy ampliando mis conocimientos en **servicios SOA, REST API**, y en el uso de tecnologías como **Android Studio**.
 
 ---
 
@@ -35,16 +36,18 @@ Actualmente estoy otivado por aplicar mis conocimientos académicos en un entorn
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-### Herramientas de Desarrollo  
+### Herramientas y Tecnologías  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
 ### Bases de Datos  
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white">
 </p>
 
 ---
@@ -52,7 +55,7 @@ Actualmente estoy otivado por aplicar mis conocimientos académicos en un entorn
 ## Contacto  
 
 <p align="center">
-  <a href="www.linkedin.com/in/cesar-sampallo">
+  <a href="https://www.linkedin.com/in/cesar-sampallo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:cesar.serafin@outlook.com">
