@@ -13,7 +13,7 @@ Me interesa el **desarrollo de software**, el diseño de soluciones eficientes y
 Cuento con experiencia en proyectos de desarrollo web y en el uso de herramientas modernas para la creación de interfaces funcionales y escalables.  
 
 Actualmente estoy motivado por aplicar mis conocimientos académicos en un entorno profesional, aprender de equipos multidisciplinarios y contribuir con soluciones innovadoras.  
-Estoy ampliando mis conocimientos en **servicios SOA, REST API**, y en el uso de tecnologías como **Android Studio**.
+Estoy ampliando mis conocimientos en **servicios SOA**, **REST API**, y en el uso de tecnologías como **Android Studio**.
 
 ---
 
@@ -21,33 +21,39 @@ Estoy ampliando mis conocimientos en **servicios SOA, REST API**, y en el uso de
 
 ### Lenguajes de Programación  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=00599C">
+  <img src="https://img.shields.io/badge/PHP-2D2D2D?style=for-the-badge&logo=php&logoColor=777BB4">
+</p>
+
+### Diseño Web  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/TailwindCSS-2D2D2D?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+  <img src="https://img.shields.io/badge/Bootstrap-2D2D2D?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
 </p>
 
 ### Frameworks y Librerías  
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-2D2D2D?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/ReactJS-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-2D2D2D?style=for-the-badge&logo=node.js&logoColor=339933">
 </p>
 
 ### Herramientas y Tecnologías  
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-2D2D2D?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/Android%20Studio-2D2D2D?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/AWS-2D2D2D?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </p>
 
 ### Bases de Datos  
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=database&logoColor=336791">
 </p>
 
 ---
@@ -56,9 +62,9 @@ Estoy ampliando mis conocimientos en **servicios SOA, REST API**, y en el uso de
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesar-sampallo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:cesar.serafin@outlook.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Correo-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
 </p>
