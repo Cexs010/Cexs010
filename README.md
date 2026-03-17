@@ -8,7 +8,7 @@
 
 ---
 
-# Programming Languages:  
+### Programming Languages:  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 0 10px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="margin: 0 10px;"  />
@@ -17,7 +17,7 @@
 
 ---
 
-# Skills and Tools:
+### Skills and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="margin: 0 10px;" />
@@ -32,7 +32,7 @@
 
 ---
 
-# Contacto  
+### Contacto  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesar-sampallo">
