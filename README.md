@@ -4,16 +4,14 @@
   <strong>Information Technology Engineering Student | Benemérita Universidad Autónoma de Puebla</strong>
 </p>
 
----
-
 <h3 align="center">A passionate fullstack web developer from México</h3>
 
 ---
 
-### Lenguajes de Programación  
+### Programming Languages:  
 <p align="center">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/javascript.png" alt="javascript" width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/typescript.png" alt="typescript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
 </p>
 
