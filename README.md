@@ -4,19 +4,19 @@
   <strong>IT Engineering Student | Benemérita Universidad Autónoma de Puebla</strong>
 </p>
 
+<h3 align="center">Fullstack Web Developer from México</h3>
+
 <p align="center">
-  Final semester student passionate about software development. Currently working as a software development intern, 
+  Final semester student passionate about software development. Currently working as a software web development intern, 
   with a strong interest in becoming a Software Engineer. I enjoy leading teams, solving problems, 
   and continuously learning new technologies.
 </p>
-
-<h3 align="center">Fullstack Web Developer from México</h3>
 
 ---
 
 ### Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 0 15px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="margin: 0 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="margin: 0 15px;" />
 </p>
