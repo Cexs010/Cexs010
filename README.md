@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Cesar</h1>
 
 <p align="center">
-  <strong>IT Engineering Student | Benemérita Universidad Autónoma de Puebla</strong>
+  <strong>Information Technology Engineer  | Benemérita Universidad Autónoma de Puebla</strong>
 </p>
 
 <h3 align="center">Fullstack Web Developer from México</h3>
 
 <p align="center">
-  Final semester student passionate about software development. Currently working as a software web development intern, 
-  with a strong interest in becoming a Software Engineer. I enjoy leading teams, solving problems, 
-  and continuously learning new technologies.
+I'm an IT engineer passionate about developing web and mobile applications. I am looking to start my professional career in an environment where I can continue to strengthen my skills, collaborate on multidisciplinary teams, and add value by developing high-quality software, applying engineering best practices, and using modern technologies.
+
+
 </p>
 
 ---
