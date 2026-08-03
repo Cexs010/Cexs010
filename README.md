@@ -9,11 +9,15 @@
 </p>
 
 <p align="center">
-  Information Technology Engineer from Benemérita Universidad Autónoma de Puebla
+  Information Technology Engineer | Benemérita Universidad Autónoma de Puebla
 </p>
 
 <p align="center">
-  I am a Web and Mobile Developer passionate about software development, focused on creating modern applications with clean architectures, intuitive interfaces, and scalable solutions.
+  Web & Mobile Developer from México
+</p>
+
+<p align="center">
+  I am an Information Technology Engineer passionate about software development, focused on building modern Web and Mobile applications with clean architectures and intuitive user experiences.
 </p>
 
 <p align="center">
@@ -30,16 +34,18 @@ Currently looking for opportunities as:
 - Fullstack Developer Junior
 - Mobile Developer Junior
 
-Interested in building user-centered applications, improving software quality, and applying software engineering best practices.
+Interested in creating scalable applications, improving user experiences, and applying software engineering best practices.
 
 ---
 
 # Portfolio
 
 <p align="center">
-  <a href="https://cexs010.github.io/Portafolio_Profesional/">
-    Visit my portfolio
-  </a>
+
+<a href="https://cexs010.github.io/Portafolio_Profesional/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6E3AA0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -55,7 +61,7 @@ January 2026 - July 2026
 - Developed reusable components and new features for web applications using React, Material-UI, Redux, and Axios.
 - Integrated REST APIs for retrieving, processing, and displaying information.
 - Improved user experience by optimizing interfaces, navigation flows, and application performance.
-- Collaborated with the development team in requirements analysis and implementation of business solutions.
+- Collaborated with the development team in requirements analysis and implementation of solutions aligned with business needs.
 
 Technologies:
 
@@ -73,7 +79,7 @@ Features:
 
 - Movie search functionality.
 - Movie details visualization.
-- API consumption.
+- REST API consumption.
 - Mobile navigation.
 - Responsive user interface.
 
@@ -130,31 +136,45 @@ Repository:
 
 https://github.com/Cexs010
 
-
----
-
-# Technologies
-
-<p align="center">
-
-React · React Native · TypeScript · JavaScript  
-Node.js · Express · FastAPI · Python  
-Firebase · MySQL · PostgreSQL · MongoDB  
-Git · Docker · AWS · REST APIs
-
-</p>
-
 ---
 
 # Programming Languages
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
+
+</p>
+
+<p align="center">
+JavaScript · TypeScript · Python · Java · C++
+</p>
+
+---
+
+# Technologies & Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
+
+</p>
+
+<p align="center">
+
+React · React Native · Node.js · Express · FastAPI  
+Firebase · MySQL · PostgreSQL · MongoDB  
+Docker · Git · REST APIs · AWS
 
 </p>
 
@@ -180,17 +200,16 @@ Git · Docker · AWS · REST APIs
 
 <p align="center">
 
-LinkedIn:
-https://www.linkedin.com/in/cesar-sampallo
+<a href="https://www.linkedin.com/in/cesar-sampallo">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
-
-Email:
-cesar.serafin@outlook.com
+<a href="mailto:cesar.serafin@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 
 </p>
 
----
 
 <p align="center">
 Thanks for visiting my profile!
