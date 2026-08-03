@@ -62,27 +62,42 @@ January 2026 - July 2026
 
 ---
 
-# Featured Projects
+## Featured Projects
+
+### Movies App
+Aplicación móvil para explorar películas utilizando la API de TMDB, con búsqueda, detalles y navegación fluida.
+
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Cexs010/moviesApp">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 
-## AgilBan - Collaborative Task Management PWA
+---
 
-Progressive Web Application focused on collaborative task management using boards and task organization.
+### AgilBan - Kanban PWA
+Aplicación web progresiva para gestión de tareas con autenticación, tableros colaborativos y soporte offline.
 
-**Main features:**
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+</p>
 
-- User authentication
-- Collaborative workspaces
-- Task management with drag & drop
-- Offline support through Service Workers
-
-**Technologies:**
-
-React · Firebase Authentication · Firestore · Tailwind CSS · PWA
-
-
-Repository:  
-https://github.com/Cexs010
+<p align="center">
+<a href="https://github.com/Cexs010">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 
 ---
