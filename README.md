@@ -1,79 +1,178 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E3AA0&height=200&section=header&text=Cesar%20Sampallo&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi, I'm Cesar</h1>
 
 <p align="center">
   <strong>Information Technology Engineer | Benemérita Universidad Autónoma de Puebla</strong>
 </p>
 
-<h3 align="center">Web & Mobile Developer from México</h3>
+<h3 align="center">
+  Web & Mobile Developer from México 🇲🇽
+</h3>
 
 <p align="center">
-I'm an Information Technology Engineer focused on Web and Mobile Development, currently seeking a professional opportunity in the software development field.
+  I'm an Information Technology Engineer passionate about software development, focused on building modern Web and Mobile applications.
+</p>
 
-I'm passionate about building scalable, user-centered applications using modern technologies. I am looking to join a development team where I can contribute my skills, continue learning, collaborate on innovative projects, and apply software engineering best practices to create high-quality solutions.
+<p align="center">
+  Currently seeking a professional opportunity as a Junior Developer, where I can contribute with my knowledge, continue learning, collaborate with development teams, and create high-quality software solutions.
 </p>
 
 ---
 
-### Professional Goal
+## Professional Goal
 
-<p align="center">
-<strong>Currently looking for a position in Web & Mobile Development</strong>
-</p>
+**Currently looking for opportunities in:**
 
-<p align="center">
-Interested in opportunities as a Junior Frontend Developer, Fullstack Developer, or Mobile Developer, where I can contribute with my experience in React, React Native, APIs, databases, and modern software development tools.
-</p>
+- Frontend Developer Junior
+- Fullstack Developer Junior
+
+Interested in creating scalable applications, improving user experiences, and applying software engineering best practices.
 
 ---
 
-### Portfolio
+## Portfolio
 
 <p align="center">
-  Check out my personal portfolio:
-</p>
-
-<p align="center">
-  <a href="https://cexs010.github.io/Portafolio_Profesional/">
+  <a href="TU_PORTAFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6E3AA0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Programming Languages
+# Experience
+
+## Software Developer Intern
+
+**Expide Tu Factura - XPD**  
+Puebla, México  
+January 2026 - July 2026
+
+- Development of reusable components and new features using React, Material-UI, Redux, and Axios.
+- Integration of REST APIs for retrieving and displaying information in web applications.
+- Improvement of the user experience by optimizing interfaces, navigation flows, and response times.
+- Collaboration on requirements analysis and the implementation of solutions aligned with business needs.
+
+**Technologies:**
+
+React · TypeScript · JavaScript · REST APIs · SQL · Git
+
+---
+
+# Featured Projects
+
+
+## AgilBan - Collaborative Task Management PWA
+
+Progressive Web Application focused on collaborative task management using boards and task organization.
+
+**Main features:**
+
+- User authentication
+- Collaborative workspaces
+- Task management with drag & drop
+- Offline support through Service Workers
+
+**Technologies:**
+
+React · Firebase Authentication · Firestore · Tailwind CSS · PWA
+
+
+Repository:  
+https://github.com/Cexs010
+
+
+---
+
+## Smart Trivia Game
+
+Interactive multiplayer trivia platform integrating web technologies with ESP32 hardware.
+
+**Main features:**
+
+- Real-time player interaction
+- WebSocket communication
+- Hardware integration
+- Question management system
+
+**Technologies:**
+
+React · FastAPI · WebSockets · ESP32 · PostgreSQL
+
+
+Repository:  
+https://github.com/Cexs010
+
+
+---
+
+# Programming Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="margin: 0 15px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+
+</p>
+
+
+---
+
+# Technologies & Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+
 </p>
 
 ---
 
-### Technologies & Tools
+# GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin: 0 15px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cexs010&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cexs010&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 
 ---
 
-### Contact
+# Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cesar-sampallo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:cesar.serafin@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/cesar-sampallo">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cesar.serafin@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+</p>
+
+
+<p align="center">
+Thanks for visiting my profile!
 </p>
