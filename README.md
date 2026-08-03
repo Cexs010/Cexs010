@@ -5,19 +5,19 @@
 <h1 align="center">Hi, I'm Cesar</h1>
 
 <p align="center">
-  <strong>Information Technology Engineer | Benemérita Universidad Autónoma de Puebla</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6E3AA0&center=true&vCenter=true&width=600&lines=Information+Technology+Engineer;Web+%26+Mobile+Developer;React+%7C+React+Native+Developer;Always+learning+new+technologies" />
 </p>
 
 <p align="center">
-  Web & Mobile Developer from México
+  Information Technology Engineer from Benemérita Universidad Autónoma de Puebla
 </p>
 
 <p align="center">
-  I'm an Information Technology Engineer passionate about software development, focused on building modern Web and Mobile applications.
+  I am a Web and Mobile Developer passionate about software development, focused on creating modern applications with clean architectures, intuitive interfaces, and scalable solutions.
 </p>
 
 <p align="center">
-  Currently seeking a professional opportunity as a Junior Developer, where I can contribute with my knowledge, continue learning, collaborate with development teams, and create high-quality software solutions.
+  Currently seeking a Junior Developer opportunity where I can contribute my skills, collaborate with development teams, and continue growing as a software engineer.
 </p>
 
 ---
@@ -28,8 +28,9 @@ Currently looking for opportunities as:
 
 - Frontend Developer Junior
 - Fullstack Developer Junior
+- Mobile Developer Junior
 
-Interested in creating scalable applications, improving user experiences, and applying software engineering best practices.
+Interested in building user-centered applications, improving software quality, and applying software engineering best practices.
 
 ---
 
@@ -37,7 +38,7 @@ Interested in creating scalable applications, improving user experiences, and ap
 
 <p align="center">
   <a href="https://cexs010.github.io/Portafolio_Profesional/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6E3AA0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    Visit my portfolio
   </a>
 </p>
 
@@ -51,20 +52,14 @@ Interested in creating scalable applications, improving user experiences, and ap
 Puebla, México  
 January 2026 - July 2026
 
-- Developed reusable components and new features using React, Material-UI, Redux, and Axios.
-- Integrated REST APIs for retrieving and displaying information in web applications.
-- Improved user experience by optimizing interfaces, navigation flows, and response times.
-- Collaborated on requirements analysis and implementation of solutions aligned with business needs.
+- Developed reusable components and new features for web applications using React, Material-UI, Redux, and Axios.
+- Integrated REST APIs for retrieving, processing, and displaying information.
+- Improved user experience by optimizing interfaces, navigation flows, and application performance.
+- Collaborated with the development team in requirements analysis and implementation of business solutions.
 
-<p align="center">
+Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-
-</p>
+React · TypeScript · JavaScript · Material-UI · Redux · Axios · MySQL · Git
 
 ---
 
@@ -72,44 +67,46 @@ January 2026 - July 2026
 
 ## Movies App
 
-Mobile application for exploring movies using the TMDB API, including search functionality, movie details, and smooth navigation.
+Mobile application developed for exploring movies using the TMDB API.
 
-<p align="center">
+Features:
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+- Movie search functionality.
+- Movie details visualization.
+- API consumption.
+- Mobile navigation.
+- Responsive user interface.
 
-</p>
+Technologies:
 
-<p align="center">
-<a href="https://github.com/Cexs010/moviesApp">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+React Native · TypeScript · TMDB API · Axios · React Navigation
+
+Repository:
+
+https://github.com/Cexs010/moviesApp
 
 
 ---
 
 ## AgilBan - Kanban PWA
 
-Progressive Web Application for task management with authentication, collaborative boards, and offline support.
+Progressive Web Application for task management with authentication, collaborative boards, and offline capabilities.
 
-<p align="center">
+Features:
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+- User authentication.
+- Kanban boards.
+- Task management.
+- Offline support through Service Workers.
+- Firebase integration.
 
-</p>
+Technologies:
 
-<p align="center">
-<a href="https://github.com/Cexs010">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+React · Firebase Authentication · Firestore · PWA · Service Workers
+
+Repository:
+
+https://github.com/Cexs010
 
 
 ---
@@ -118,27 +115,33 @@ Progressive Web Application for task management with authentication, collaborati
 
 Interactive multiplayer trivia platform integrating web technologies with ESP32 hardware.
 
-Main features:
+Features:
 
-- Real-time player interaction
-- WebSocket communication
-- Hardware integration
-- Question management system
+- Real-time multiplayer interaction.
+- WebSocket communication.
+- Hardware integration.
+- Question management system.
+
+Technologies:
+
+React · FastAPI · WebSockets · ESP32 · PostgreSQL
+
+Repository:
+
+https://github.com/Cexs010
+
+
+---
+
+# Technologies
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+React · React Native · TypeScript · JavaScript  
+Node.js · Express · FastAPI · Python  
+Firebase · MySQL · PostgreSQL · MongoDB  
+Git · Docker · AWS · REST APIs
 
-</p>
-
-<p align="center">
-<a href="https://github.com/Cexs010">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -147,27 +150,27 @@ Main features:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 
 </p>
 
 ---
 
-# Technologies & Tools
+# GitHub Statistics
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cexs010&show_icons=true&theme=transparent&title_color=6E3AA0"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cexs010&layout=compact&theme=transparent&title_color=6E3AA0"/>
 
 </p>
 
@@ -177,15 +180,17 @@ Main features:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/cesar-sampallo">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+LinkedIn:
+https://www.linkedin.com/in/cesar-sampallo
 
-<a href="mailto:cesar.serafin@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
+<br/>
+
+Email:
+cesar.serafin@outlook.com
 
 </p>
+
+---
 
 <p align="center">
 Thanks for visiting my profile!
