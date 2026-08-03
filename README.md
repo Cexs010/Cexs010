@@ -58,7 +58,7 @@ January 2026 - July 2026
 
 **Technologies:**
 
-React · TypeScript · JavaScript · REST APIs · SQL · Git
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> · TypeScript · JavaScript · REST APIs · SQL · Git
 
 ---
 
@@ -137,24 +137,6 @@ https://github.com/Cexs010
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
 
 </p>
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cexs010&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cexs010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 ---
 
