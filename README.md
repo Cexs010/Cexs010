@@ -147,12 +147,6 @@ https://github.com/Cexs010
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
 
-</p>
-
-<p align="center">
-JavaScript · TypeScript · Python · Java · C++
-</p>
-
 ---
 
 # Technologies & Tools
