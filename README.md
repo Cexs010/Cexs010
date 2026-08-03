@@ -145,7 +145,6 @@ https://github.com/Cexs010
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
 
 </p>
@@ -167,30 +166,6 @@ JavaScript · TypeScript · Python · Java · C++
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-
-</p>
-
-<p align="center">
-
-React · React Native · Node.js · Express · FastAPI  
-Firebase · MySQL · PostgreSQL · MongoDB  
-Docker · Git · REST APIs · AWS
-
-</p>
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cexs010&show_icons=true&theme=transparent&title_color=6E3AA0"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cexs010&layout=compact&theme=transparent&title_color=6E3AA0"/>
 
 </p>
 
